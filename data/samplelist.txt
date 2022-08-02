@@ -1,0 +1,13 @@
+sampleID	condition
+B10	IFNGR1KOclone5
+B11	IFNGR1KOclone5
+B12	IFNGR1KOclone5
+B1	scr
+B2	scr
+B3	scr
+B4	IFNg
+B5	IFNg
+B6	IFNg
+B7	IFNGR1KOclone2
+B8	IFNGR1KOclone2
+B9	IFNGR1KOclone2
